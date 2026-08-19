@@ -44,11 +44,11 @@ In view mode, the multiple consecutive spaces are collapsed and rendered as a si
 
 View mode (spaces collapsed):
 
-![Task title displayed with collapsed whitespace in view mode](screenshots/TD-B-03.png)
+![Task title displayed with collapsed whitespace in view mode](screenshots/TD-B-04.png)
 
 Edit mode (spaces preserved):
 
-![Task title displayed with full whitespace preserved in edit mode](screenshots/TD-B-04.png)
+![Task title displayed with full whitespace preserved in edit mode](screenshots/TD-B-03.png)
 
 ---
 
