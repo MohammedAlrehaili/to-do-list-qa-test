@@ -89,7 +89,7 @@ One click on the toggle-all icon has no effect (or only partially registers); a 
 
 **Screenshot of the bug:**
 
-![Input placeholder showing "What need's to be done?" with incorrect apostrophe](screenshots/TD-B-06.png)
+![Toggle-all icon requires two clicks to revert](screenshots/TD-B-6.png)
 
 ---
 
