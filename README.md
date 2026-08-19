@@ -26,5 +26,3 @@ This folder contains the full QA deliverable set for manual testing of the To Do
 | 3 | Task display collapses multiple whitespace characters into a single space, while edit mode preserves them | Update | Low |
 | 4 | Input placeholder contains a grammatical error ("need's" instead of "needs") | Create | Low |
 | 5 | Input field does not fully clear after submitting input | Create | Low |
-
-## Notes
