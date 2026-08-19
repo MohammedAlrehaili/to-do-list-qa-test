@@ -65,7 +65,7 @@ This report summarizes the manual functional testing performed on the To Do List
 | 4 | Input placeholder contains a grammatical error ("need's" instead of "needs") | Create | Low |
 | 5 | Input field does not fully clear after submitting input | Create | Low |
 
-**Defect breakdown by severity:** 1 High · 1 unrated (functional) · 3 Low
+**Defect breakdown by severity:** 1 High · 1 Medium · 3 Low
 
 *(Full steps to reproduce, expected/actual results, and screenshots for each defect are in `Todo_App_Bug_Reports.md`.)*
 
