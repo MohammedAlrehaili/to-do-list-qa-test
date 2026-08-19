@@ -21,7 +21,7 @@ The counter displays "2 items left" — one less than the actual count of active
 
 **Screenshot of the bug:**
 
-![Items counter showing "2 items left" for 3 active tasks](screenshots/items-counter-off-by-one.png)
+![Items counter showing "2 items left" for 3 active tasks](screenshots/TD-B-01.png)
 
 ---
 
