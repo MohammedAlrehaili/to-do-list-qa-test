@@ -21,7 +21,7 @@ The counter displays "2 items left" — one less than the actual count of active
 
 **Screenshot of the bug:**
 
-![Items counter showing "2 items left" for 3 active tasks](screenshots/TD-B-01.png)
+![Items counter showing "2 items left" for 3 active tasks](screenshots/TD-B-02.png)
 
 ---
 
@@ -44,11 +44,11 @@ In view mode, the multiple consecutive spaces are collapsed and rendered as a si
 
 View mode (spaces collapsed):
 
-![Task title displayed with collapsed whitespace in view mode](screenshots/whitespace-display-mode.png)
+![Task title displayed with collapsed whitespace in view mode](screenshots/TD-B-03.png)
 
 Edit mode (spaces preserved):
 
-![Task title displayed with full whitespace preserved in edit mode](screenshots/whitespace-edit-mode.png)
+![Task title displayed with full whitespace preserved in edit mode](screenshots/TD-B-04.png)
 
 ---
 
@@ -67,7 +67,7 @@ The placeholder text incorrectly displays "What need's to be done?", with an unn
 
 **Screenshot of the bug:**
 
-![Input placeholder showing "What need's to be done?" with incorrect apostrophe](screenshots/placeholder-grammar.png)
+![Input placeholder showing "What need's to be done?" with incorrect apostrophe](screenshots/TD-B-05.png)
 
 ---
 
@@ -89,7 +89,7 @@ One click on the toggle-all icon has no effect (or only partially registers); a 
 
 **Screenshot of the bug:**
 
-*Screenshot (Screenshot_19.png) referenced on the Defect Reports card was not available to embed in this session — attach it manually from the Trello card if needed.*
+![Toggle-all icon requires two clicks to revert all](screenshots/TD-B-06.png)
 
 ---
 
@@ -109,4 +109,6 @@ The input field appears blank but does not show the placeholder text, indicating
 
 **Screenshot of the bug:**
 
-![Input field appearing blank without placeholder text after task submission](screenshots/input-field-not-clearing.png)
+![Input field appearing blank without placeholder text after task submission](screenshots/TD-B-01.png)
+
+
