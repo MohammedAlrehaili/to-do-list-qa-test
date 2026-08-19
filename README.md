@@ -2,6 +2,10 @@
 
 This folder contains the full QA deliverable set for manual testing of the To Do List web application (`todolist.james.am`), organized around the CRUD model (Create, Read, Update, Delete).
 
+# Project in trello
+
+👉 **[To-Do List Web App QA - Trello Board](https://trello.com/invite/b/6a8477ce464e4b0d4b1d9d1c/ATTIfe02a3d2dfc5c5e0fa9380d09cef64f1B34D50AB/to-do-list-web-app)** *(Read-Only / Observer Access)*
+
 ## Contents
 
 | File | Description |
