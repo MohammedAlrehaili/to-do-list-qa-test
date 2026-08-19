@@ -60,7 +60,7 @@ This report summarizes the manual functional testing performed on the To Do List
 | # | Defect | Module | Severity |
 |---|---|---|---|
 | 1 | "Items left" counter shows one fewer than the actual number of active tasks | Read | High |
-| 2 | Toggle-all icon requires two clicks to revert all tasks to active when all are completed | Update | Not set (recommend Medium–High) |
+| 2 | Toggle-all icon requires two clicks to revert all tasks to active when all are completed | Update | Medium |
 | 3 | Task display collapses multiple whitespace characters into a single space, while edit mode preserves them | Update | Low |
 | 4 | Input placeholder contains a grammatical error ("need's" instead of "needs") | Create | Low |
 | 5 | Input field does not fully clear after submitting input | Create | Low |
